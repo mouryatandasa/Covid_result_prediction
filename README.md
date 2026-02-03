@@ -120,8 +120,8 @@ These are standard choices for **binary medical classification problems**.
 
 ## 👨‍💻 Author
 
-Your Name  
-B.Tech Student | Machine Learning Enthusiast  
+T.Mourya
+B.Tech 3rd Year Student | Deep Learning Enthusiast  
 
 ---
 
