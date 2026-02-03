@@ -1,4 +1,4 @@
-# Covid_result_prediction
+
 # 🦠 COVID-19 Test Prediction using ANN
 
 A simple **Artificial Neural Network (ANN)** project to predict whether a person is **COVID-19 Positive or Negative** based on medical data.
